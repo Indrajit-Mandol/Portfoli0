@@ -1,0 +1,41 @@
+Indrajit Mandol
++91-9851584780 | indrajit142024@gmail.com
+Kolkata, India | LinkedIn | GitHub
+
+Summary
+Aspiring AI/ML Engineer transitioning from full-stack development. Proficient in Python, SQL, NLP,
+and data engineering with experience building scalable web apps, automation systems, and AI-powered
+solutions.
+Technical Skills
+• Languages: Python, SQL, C++, JavaScript, TypeScript, PHP
+• AI/ML: Scikit-learn, TensorFlow, spaCy, NLTK, Pandas, NumPy, Matplotlib, Tesseract OCR
+• Web/Tools: Streamlit, React.js, Tailwind CSS, MySQL, Git, GitHub, Postman
+Education
+Jadavpur University 2020–2024
+B.E. in CE CGPA: 7.6
+Experience
+The Homestore Kolkata, India
+Full Stack Developer Sep 2024–Present
+• Managed 40+ microsites using a centralized codebase with domain-specific rendering; ensured SEO
+consistency.
+• Developed custom admin portal with dynamic content control via MySQL, allowing real-time updates.
+• Implemented CI/CD pipeline (local → GitHub → hPanel) for automatic deployment on push to master.
+• Achieved 90+ PageSpeed score through advanced caching, indexing, and performance optimizations.
+• Built Android app (Kotlin) to log call metadata and sync via REST API for CRM integration.
+• Automated Facebook lead sync from Google Sheets to CRM using API-based workflows.
+Projects
+ResumeIQ Pro – AI Resume Analyzer GitHub | Demo
+
+• Developed an AI resume classifier with ATS scoring using Python, NLP, and TF-IDF to identify can-
+didate fit based on job descriptions.
+
+• Applied NLP and TF-IDF for automated, fast, and unbiased resume screening from PDFs and text files.
+Real Estate Price Prediction App GitHub | Demo
+• Built and deployed ML model to predict Mumbai property prices using scraped data from 99acres.com.
+interactive Streamlit app for real-time predictions with user input.
+Sudoku Solver (React.js) GitHub | Demo
+• Solver built with backtracking algorithm and interactive React UI.
+Certifications
+• Machine Learning with Python – IBM Grade: 96.19%
+• What is Data Science? – IBM Grade: 93.50%
+• Foundations of Project Management – Google Grade: 92.10%
