@@ -1,6 +1,40 @@
-node_modules
-dist
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build outputs
+dist/
+client/dist/
+server/dist/
+
+# System files
 .DS_Store
-server/public
+Thumbs.db
+
+# Logs
+*.log
+
+# Env variables
+.env
+.env.local
+.env.*.local
+
+# Vite config backups or temp files
 vite.config.ts.*
+vite.config.js.*
+
+# Archives
 *.tar.gz
+*.zip
+
+# Public uploads or static runtime assets (if generated)
+server/public/uploads/
+server/public/temp/
+
+# IDEs
+.vscode/
+.idea/
+
+# Other
+coverage/
